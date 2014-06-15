@@ -1,0 +1,3 @@
+m4_include(/home/philipp/.when/holidays/DE)
+m4_include(/home/philipp/.when/birthdays)
+m4_include(/home/philipp/.when/personal)

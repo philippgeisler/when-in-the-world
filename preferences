@@ -1,0 +1,10 @@
+calendar = /home/philipp/.when/calendar
+editor = vim.basic
+prefilter = m4 -P
+wrap_auto = yes
+wrap_max = 180
+header = yes
+paging = no
+monday_first = yes
+ampm = 0
+auto_pm = 0
